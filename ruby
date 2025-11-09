@@ -31,3 +31,4 @@ class TaskStorage
     File.write(@file_path, json_data)
   end
 end
+
